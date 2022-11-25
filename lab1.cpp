@@ -3,6 +3,7 @@ using namespace std;
 class Temperature
 {
 public:
+  int Temperature;
 void SetData(int t)
 {
 Temperature = t;
